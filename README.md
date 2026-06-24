@@ -1,8 +1,9 @@
 # Curso Completo de Git y GitHub (5 Horas) - Bitácora de Aprendizaje
 
 **Estudiante:** Alexis Santiago López Morin  
-**Institución:** Universidad Politécnica de Apodaca (UPAP)  
+**Institución:** Universidad Politécnica de Apodaca 
 **Materia:** Estándares y Métricas para el Desarrollo de Software  
+**Docente:** Eva Maria Francisco Santiago
 
 Este repositorio contiene las notas, comandos clave y la estructura de control de versiones aprendida durante el curso de capacitación de 5 horas, así como la integración del avance de nuestro proyecto de software para la materia.
 
